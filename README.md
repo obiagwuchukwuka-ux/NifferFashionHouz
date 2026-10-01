@@ -31,3 +31,4 @@ Create a Paystack account, copy the test public key into `VITE_PAYSTACK_PUBLIC_K
 
 ## Adding product photos
 Set `image_url` on rows in the `products` table (Supabase Table Editor), using any image URL or Supabase Storage public URL.
+
